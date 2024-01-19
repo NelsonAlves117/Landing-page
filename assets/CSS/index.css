@@ -69,10 +69,7 @@ p {
   margin-bottom: 3rem;
 }
 
-.responsive-table {
-  overflow: hidden;
-  overflow-x: auto;
-}
+
 
 table {
   min-width: 360px;
@@ -433,6 +430,11 @@ body .full-width {
 
   .menu-spacing {
     display: none;
+  }
+
+  .responsive-table {
+    overflow: hidden;
+    overflow-x: auto;
   }
 
   h1 {
