@@ -93,7 +93,9 @@ table td, table th {
 
 tfoot td, table th {
   background: var(--light-gray-color);
+  text-align: center  ;
 }
+
 
 .main-bg {
   background-image: url('../img/main-bg.svg');
